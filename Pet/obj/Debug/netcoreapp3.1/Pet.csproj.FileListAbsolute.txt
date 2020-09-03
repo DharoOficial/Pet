@@ -1,0 +1,10 @@
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.exe
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.csprojAssemblyReference.cache
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfoInputs.cache
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfo.cs
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.RazorTargetAssemblyInfo.cache
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\obj\Debug\netcoreapp3.1\staticwebassets\Pet.StaticWebAssets.Manifest.cache
+C:\Users\mercatudo\Documents\trabs_API\Pet\Pet\obj\Debug\netcoreapp3.1\staticwebassets\Pet.StaticWebAssets.xml
